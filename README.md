@@ -1,6 +1,6 @@
 ## React Client Frontend For Authentication Project
 
-React frontend for authentication project. Signup, signin, protect links. Use of JWT tokens for authentication.
+React front end for authentication project. Signup, signin, protect links. Use of JWT tokens for authentication.
 
 ###### Features
 
